@@ -1,0 +1,21 @@
+#banner {
+    background-color:rgba(54, 16, 16, 0.815) ;
+    height: 77px;
+}
+#banner h1 {
+    float: left;
+}
+#banner nav {
+    float: right;
+    position: relative;
+    top: 31px;
+}
+#banner nav ul li {
+    display: inline-block;
+    width: 100px;
+}
+#banner nav ul li a {
+    color: rgb(213, 230, 64);
+    text-decoration: none;
+    text-transform: uppercase;
+}
