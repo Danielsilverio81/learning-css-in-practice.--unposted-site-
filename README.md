@@ -15,4 +15,4 @@ Você tambem verá, um programador iniciante cm muita vontade de melhorar e apre
 _____
 
 ### Imagem da estrutura em html 5:
-<img src="site%20hello%20pizza%20ex/screencapture-file-C-Users-danie-OneDrive-Documentos-GitHub-learning-css-in-practice-unposted-site-site-hello-pizza-ex-pizza-html-2021-11-02-15_24_05.png" alt="imagem do html" heigth="700" width="600">
+<img src="site%20hello%20pizza%20ex/screencapture-file-C-Users-danie-OneDrive-Documentos-GitHub-learning-css-in-practice-unposted-site-site-hello-pizza-ex-pizza-html-2021-11-02-16_58_30.png" alt="imagem do html" heigth="700" width="600">
