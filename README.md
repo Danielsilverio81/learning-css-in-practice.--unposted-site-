@@ -5,6 +5,10 @@ _____
     
    Neste repositorio você verá, meu primeiro site estilizado com **CSS3**, feito para um exercício, para meu  
 curso de Desenvolvedor **FRONT-END** , na *DevMedia*.
+______ 
+**Site pronto** Feito de acordo com o pedido pelo exercício:
+______
+<img src="site%20hello%20pizza%20ex/img/screencapture-10-0-0-103-5500-site-hello-pizza-ex-pizza-html-2021-11-03-20_05_07.png " alt="imagem de Site finalizado" title="Site finalizado" width="700" heigth="800">
    Algumas coisas foram modificadas para, não ser um exercício copiado mais sim para me desafiar a mudar e aprender.
 ____
 Você tambem verá, um programador iniciante cm muita vontade de melhorar e aprender!!!
