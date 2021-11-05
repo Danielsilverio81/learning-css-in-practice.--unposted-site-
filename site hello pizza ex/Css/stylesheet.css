@@ -1,85 +1,115 @@
 #banner {
-    background-color:rgba(29, 20, 20, 0.582) ;
+    background-color:rgba(131, 16, 16, 0.527);
     height: 77px;
-    padding: 26px 70px 26px 70px;
+    padding: 40px 60px 40px 60px;
 }
-body {
-    background-color: #060606;
-    background-image: url(../img/background-pizza.jpg);
-    background-repeat: no-repeat;
-    background-size: contain;
-    margin: 0;
+
+#banner nav ul li {
+    display: inline-block;
+    width: 96px;
+    text-transform:uppercase;
 }
+
+#banner nav {
+    float: right;
+    position: relative;
+    top: 86px;
+}
+
 #banner h1 {
     float: left;
     margin: 0;
 }
-#banner nav {
-    float: right;
-    position: relative;
-    top: 31px;
-}
+
 #banner ul {
     margin: 0;
 }
-#banner nav ul li {
-    display: inline-block;
-    width: 100px;
-}
+
 #banner nav ul li a {
-    color: rgb(213, 230, 64);
+    color: rgb(4, 8, 24);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 17px;
     text-decoration: none;
-    text-transform: uppercase;
-    font-size: 12px;
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px -1px 3px white;
 }
-#sabores-pizzas h2 {
-    color: honeydew;
-    text-align: center;
-    text-transform: uppercase;
-    font-family: Arial, Helvetica, sans-serif;
+body {
+    background-color:black;
+    background-image:url(../img/pizza-3007395_1920.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
     margin: 0;
-    line-height: 6;
-    text-shadow: 2px -2px 10px #060606;
 }
-#sabores-pizzas table {
-    background-color:#2a2a2a;
-    border-collapse: collapse;
-    width: 80%;
-    margin: 0 auto;
-}
-#sabores-pizzas table td,
-#sabores-pizzas table th {
-    border: 01px black solid;
-    color: antiquewhite;
-    text-align: center;
-    text-transform: uppercase;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 12px;
-    padding: 25px;
-}
-#sabores-pizzas .texto-negativo {
-    color: darkred;
-}
-#sabores-pizzas .texto-positivo {
-    color: rgb(96, 185, 6);
-}
-#copyright a {
-    text-align: center;
-    display: block;
-    padding: 35px 0 10px 0;
-}
-#copyright p {
-    color: antiquewhite;
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 12px;
-}
+
 #sabores-pizzas {
     padding-bottom: 60px;
-    margin-top: 380px;
+    margin-top: 400px;
 }
+
+#sabores-pizzas h2 {
+    text-align:center;
+    color:white;
+    text-transform: uppercase;
+    text-shadow: 3px -2px 7px black;
+    text-decoration:darkred underline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    line-height: 3;
+    margin:0;
+}
+
+#sabores-pizzas em {
+    color:greenyellow;
+}
+
+#sabores-pizzas h2 strong {
+    color:cyan;
+}
+
+#sabores-pizzas table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    width: 80%;
+    background-color:rgba(17, 34, 34, 0.932);
+}
+
+#sabores-pizzas table td {
+    border: 2px black solid;
+    color: aliceblue;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 25px;
+}
+
+#sabores-pizzas table th {
+    border: 2px black solid;
+    color: gold;
+    text-transform: uppercase;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 25px;
+}
+
+#sabores-pizzas .texto-negativo {
+    color: crimson;
+}
+
+#sabores-pizzas .texto-positivo {
+    color:gold;
+}
+
+#copyright a {
+    display: block;
+    text-align: center;
+}
+
+#copyright p {
+    color: aliceblue;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 13px;
+}
+
 #copyright {
-    background-color: #060606;
+    background-color:black;
+    padding: 35px 0 10px 0;
 }
